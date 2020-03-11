@@ -23,7 +23,7 @@ const Footer = ({ siteTitle }) => (
       <div style={{ color: COLORS.blue, fontWeight: 700 }}>
         <a
           style={{ textDecoration: "none" }}
-          href="www.versan.com.ph"
+          href="https://www.versan.com.ph"
         >
           Contact Us
         </a>

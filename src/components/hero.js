@@ -28,7 +28,7 @@ const Header = ({ siteTitle }) => (
     />
     <h1 style={{ textAlign: "center" }}>Versan Systems Technologies</h1>
     <p style={{ textAlign: "center", maxWidth: 640 }}>
-      Software Expertise in C++ for Embedded, Mobile and Desktop.
+      Software Expertise in Qt and C++ for Embedded, Mobile and Desktop.
     </p>
     <Button>Know more</Button>
     <div style={{ margin: 60, width: `250px`, position: "relative" }}>

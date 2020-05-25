@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
     title: `Versan`,
-    description: `A software company with expertise on C++ for embedded, mobile and desktop.`,
-    author: `jev`,
+    description: `A software company with expertise on Qt and C++ for embedded, mobile and desktop.`,
+    author: `Janno Vergara`,
     siteUrl: `http://www.versan.com.ph`,
   },
   plugins: [

@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `Versan`,
-    description: `A software company with expertise on Qt and C++ for embedded, mobile and desktop.`,
+    description: `We all love cheesecakes! Versan Cafe offers the best cheesecakes in town. Cheesecakes are filled in a 200mL glass jar. Browse our shop to choose the most satisfying cheesecake/s for you!`,
     author: `Janno Vergara`,
     siteUrl: `http://www.versan.com.ph`,
   },

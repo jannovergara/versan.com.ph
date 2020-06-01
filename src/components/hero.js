@@ -26,9 +26,9 @@ const Header = ({ siteTitle }) => (
         opacity: 0.5,
       }}
     />
-    <h1 style={{ textAlign: "center" }}>Versan Systems Technologies</h1>
+    <h1 style={{ textAlign: "center" }}>Versan Cafe</h1>
     <p style={{ textAlign: "center", maxWidth: 640 }}>
-      Software Expertise in Qt and C++ for Embedded, Mobile and Desktop.
+      We all love cheesecakes! Versan Cafe offers the best cheesecakes in town. Cheesecakes are filled in a 200mL glass jar. Browse our shop to choose the most satisfying cheesecake/s for you!
     </p>
     <Button>Know more</Button>
     <div style={{ margin: 60, width: `250px`, position: "relative" }}>

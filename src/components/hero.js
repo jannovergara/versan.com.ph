@@ -28,7 +28,7 @@ const Header = ({ siteTitle }) => (
     />
     <h1 style={{ textAlign: "center" }}>Versan Cafe</h1>
     <p style={{ textAlign: "center", maxWidth: 640 }}>
-      We all love cheesecakes! Versan Cafe offers the best cheesecakes in town. Cheesecakes are filled in a 200mL glass jar. Browse our shop to choose the most satisfying cheesecake/s for you!
+      We all love cheesecakes! Versan offers the best cheesecakes in town. Cheesecakes are filled in a 200mL glass jar. Browse our shop to choose the most satisfying cheesecake/s for you!
     </p>
     <Button>Know more</Button>
     <div style={{ margin: 60, width: `250px`, position: "relative" }}>
@@ -44,7 +44,7 @@ const Header = ({ siteTitle }) => (
       >
         <img
           src={mockupFrame}
-          alt="outlines of shapes and confetti in the background "
+          alt="cheesecakes"
         />
       </div>
     </div>

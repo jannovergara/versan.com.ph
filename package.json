@@ -1,11 +1,11 @@
 {
   "name": "versan",
   "private": true,
-  "description": "A software company with expertise on C++ for embedded, mobile and desktop.",
+  "description": "We all love cheesecakes! Versan offers the best cheesecakes in town. Cheesecakes are filled in a 200mL glass jar. Browse our shop to choose the most satisfying cheesecake/s for you!",
   "version": "0.1.0",
   "author": "jev",
   "dependencies": {
-    "gatsby": "^2.1.37",
+    "gatsby": "^2.23.3",
     "gatsby-image": "^2.0.34",
     "gatsby-plugin-google-analytics": "^2.0.17",
     "gatsby-plugin-react-helmet": "^3.0.10",

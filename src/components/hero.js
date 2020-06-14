@@ -6,6 +6,8 @@ import headerImage from "../images/header.png"
 import MockupContent from "./image"
 import mockupFrame from "../images/mockup-frame.png"
 
+import { COLORS } from "../styles/constants"
+
 const Header = ({ siteTitle }) => (
   <div
     style={{
@@ -30,9 +32,20 @@ const Header = ({ siteTitle }) => (
     <p style={{ textAlign: "center", maxWidth: 640 }}>
       We all love cheesecakes! Versan offers the best cheesecakes in town. Cheesecakes are filled in a 200mL glass jar. Browse our shop to choose the most satisfying cheesecake/s for you!
     </p>
-    <Button>Know more</Button>
+    <a
+      style={{ textDecoration: "none", color: COLORS.lightWhite, }}
+      rel="noopener noreferrer"
+      target="_blank"
+      href="https://www.facebook.com/versanph/shop/"
+    >
+      <Button>
+        Know more
+      </Button>
+    </a>
     <div style={{ margin: 60, width: `250px`, position: "relative" }}>
-      <div style={{ clipPath: "inset(2% 5% round 2% 5%)" }}>
+      <div
+        style={{ clipPath: "inset(2% 5% round 2% 5%)" }}
+      >
         <MockupContent />
       </div>
       <div

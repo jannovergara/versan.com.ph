@@ -10,10 +10,11 @@ export const COLORS = {
   emeraldDark: "#1B3338",
   emeraldGreen: "#669297",
   milkWhite: "#CACCC1",
+  copper: "#BF874C",
 }
 
-export const GRADIENT = `linear-gradient(to top right, ${COLORS.emeraldGreen}, ${
-  COLORS.emeraldDark
+export const GRADIENT = `linear-gradient(to top right, ${COLORS.milkWhite}, ${
+  COLORS.emeraldGreen
 })`
 
 export const BORDER_RADIUS = "10px"

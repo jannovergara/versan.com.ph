@@ -30,7 +30,7 @@ const Header = ({ siteTitle }) => (
     />
     <h1 style={{ textAlign: "center" }}>Versan Cheesecakes</h1>
     <p style={{ textAlign: "center", maxWidth: 640 }}>
-      We all love cheesecakes! Versan offers the best cheesecakes in town. Cheesecakes are filled in a 200mL glass jar. Browse our shop to choose the most satisfying cheesecake/s for you!
+      We all love cheesecakes! Versan offers the best cheesecakes in town. Cheesecakes are filled in a clean glass jar topped with a gold lid. Browse our shop to choose the most satisfying cheesecake(s) for you!
     </p>
     <a
       style={{ textDecoration: "none", color: COLORS.lightWhite, }}

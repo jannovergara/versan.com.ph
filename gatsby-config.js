@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `Versan`,
-    description: `We all love cheesecakes! Versan offers the best cheesecakes in town. Cheesecakes are filled in a 200mL glass jar. Browse our shop to choose the most satisfying cheesecake/s for you!`,
+    description: `We all love cheesecakes! Versan offers the best cheesecakes in town. Cheesecakes are filled in a clean glass jar. Browse our shop to choose the most satisfying cheesecake/s for you!`,
     author: `Janno Vergara`,
     siteUrl: `http://www.versan.com.ph`,
   },

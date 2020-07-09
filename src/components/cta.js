@@ -17,7 +17,7 @@ const CallToAction = () => (
       target="_blank"
       href="https://www.facebook.com/versanph"
     >
-      <Button>Get Early Access</Button>
+      <Button>Know More</Button>
     </a>
     
   </div>

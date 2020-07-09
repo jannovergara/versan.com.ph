@@ -36,10 +36,10 @@ const Header = ({ siteTitle }) => (
       style={{ textDecoration: "none", color: COLORS.lightWhite, }}
       rel="noopener noreferrer"
       target="_blank"
-      href="https://www.facebook.com/versanph/shop/"
+      href="https://forms.gle/jitcRZxAYGWysyif7"
     >
       <Button>
-        Know more
+        ORDER HERE
       </Button>
     </a>
     <div style={{ margin: 60, width: `250px`, position: "relative" }}>
